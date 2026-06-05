@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # ⚖️ LawgicAI-Chatbot
 
@@ -111,3 +112,6 @@ If you find this useful, give it a ⭐ and feel free to contribute!
 Built with ❤️ by [**Yuvraj Kumar**](https://github.com/yuvraj-kumar-dev)
 
 ---
+=======
+# Lawgic-ai
+>>>>>>> 70aaa36271cd5673ff7c8ea1d1f16b384c32bb3f
